@@ -1,0 +1,1 @@
+torchpack dist-run -np 1 python tools/train.py configs/nusc_detection_bevfusion_sst_transfusion_stream.yaml
